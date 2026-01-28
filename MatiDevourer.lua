@@ -5,7 +5,7 @@ local UserInputService = game:GetService("UserInputService")
 local player = Players.LocalPlayer
 
 local TOOL_NAME = "Dark Matter Slap"
-local TOGGLE_INTERVAL = 0.01 -- 🔥 velocidad extrema
+local TOGGLE_INTERVAL = 0.05 -- 🔥 velocidad extrema
 
 -- ================= UI =================
 local screenGui = Instance.new("ScreenGui")
